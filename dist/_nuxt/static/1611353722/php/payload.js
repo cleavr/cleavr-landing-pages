@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/php", {data:[{app:{id:"php",name:"PHP",resource:"PhpResources",troubleshoot:"PhpTroubleshoot"}}],fetch:[],mutations:void 0});

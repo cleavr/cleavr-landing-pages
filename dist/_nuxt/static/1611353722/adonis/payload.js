@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/adonis", {data:[{app:{id:"adonis",name:"Adonis",resource:"AdonisResources",troubleshoot:"AdonisTroubleshoot"}}],fetch:[],mutations:void 0});

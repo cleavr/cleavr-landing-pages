@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/node-ssr", {data:[{app:{id:"node-ssr",name:"Node SSR",resource:"NodeSsrResources",troubleshoot:"NodeSsrTroubleshoot"}}],fetch:[],mutations:void 0});

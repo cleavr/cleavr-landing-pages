@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/nuxt-static", {data:[{app:{id:"nuxt-static",name:"Nuxt Static",resource:"NuxtStaticResources",troubleshoot:"NuxtStaticTroubleshoot"}}],fetch:[],mutations:void 0});

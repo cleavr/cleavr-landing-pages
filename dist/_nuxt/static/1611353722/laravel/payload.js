@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/laravel", {data:[{app:{id:"laravel",name:"Laravel",resource:"LaravelResources",troubleshoot:"LaravelTroubleshoot"}}],fetch:[],mutations:void 0});

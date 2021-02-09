@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/alpas", {data:[{app:{id:"alpas",name:"Alpas",resource:"AlpasResources",troubleshoot:"AlpasTroubleshoot"}}],fetch:[],mutations:void 0});
